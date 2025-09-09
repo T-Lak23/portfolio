@@ -72,7 +72,7 @@ export const PortfolioConsts = [
       "Responsive layout with smooth scroll and scroll-spy",
       "Modular components and clean architecture",
     ],
-    live: "https://todo-list-app-eight-ashy.vercel.app/",
+    live: "https://portfolio-theta-pearl-17.vercel.app/",
   },
 
   {

@@ -24,4 +24,4 @@ A single-page site built with Next.js to showcase my projects, skills, and backg
 
 ## 🌐 Live Site
 
-[Visit Portfolio](https://your-deployed-url.vercel.app)
+[Visit Portfolio](https://portfolio-theta-pearl-17.vercel.app/)
